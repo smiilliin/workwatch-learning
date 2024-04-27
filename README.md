@@ -10,6 +10,14 @@ This program uses a dataset with period and time of 3 users (ㅛㅎㅎ, smiillii
 
 ## Usage
 
+### Main.ts:6
+
+Input user name which you want to predict (ㅛㅎㅎ or smiilliin or 원숭이)
+
+```ts
+const data = dataset.get("ㅛㅎㅎ");
+```
+
 ### Predict.ts - getT0
 
 Predict peroid value by deep learning model
