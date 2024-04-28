@@ -8,6 +8,8 @@ Predict the peroid(T0) through deep learning and get the constant(c) through a g
 
 This program uses a dataset with period and time of 3 users (ㅛㅎㅎ, smiilliin, 원숭이) (./dataset.csv).
 
+https://velog.io/@smiilliin/주기-시간-예측-알고리즘
+
 ## Usage
 
 ### Main.ts:6
